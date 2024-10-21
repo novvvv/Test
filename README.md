@@ -5,3 +5,4 @@
 
 ## ✨Graph
 [11725](https://www.acmicpc.net/problem/11725) : Graph를 활용해 부모 노드를 탐색하는 기초 문제
+[1240](https://www.acmicpc.net/problem/1240)
